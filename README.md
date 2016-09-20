@@ -24,7 +24,7 @@
   E-Mail mit der Immatrikulationsbestätigung an discount@digitalconcerthall.com
 
 ## RL
-- Brack.ch  
+- Brack.ch *  
   https://student.brack.ch
-- Eine weitere Liste  
+- Eine weitere Liste *  
   https://www.uniboard.ch/rabatte
